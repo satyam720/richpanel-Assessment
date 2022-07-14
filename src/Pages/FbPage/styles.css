@@ -1,0 +1,13 @@
+.fb{
+    background-color: #044c9b;
+    height: 100vh;
+    
+}
+
+.card__pos{
+    position: relative;
+    top: 34%;
+    left: 35%;
+    width: 30%;
+}
+
